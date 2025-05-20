@@ -31,7 +31,7 @@ This project was developed as a part of a deep learning assignment. The goal was
 .
 ├── app.py               # Gradio interface
 ├── midterm.ipynb        # Full model training pipeline (Google Colab)
-├── export.pkl           # Trained FastAI model
+├── export.pkl           # Not in repo because GitHub file size limits.
 ├── requirements.txt     # Dependencies for Gradio deployment
 └── README.md            # You're here!
 ```
