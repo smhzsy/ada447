@@ -20,12 +20,11 @@ This project was developed as a part of a deep learning assignment. The goal was
 
 ## 🚀 Demo
 
-🔗 **Live App**: [Try it on Hugging Face Spaces]((https://huggingface.co/spaces/semihozsoy/cat-vs-dog))
+🔗 **Live App**: [Try it on Hugging Face Spaces](https://huggingface.co/spaces/semihozsoy/cat-vs-dog)
 
 📸 Upload a cat or dog image. If the model is more than 95% confident, it will classify it; otherwise, it will return "Unknown or Uncertain".
 
 ---
-
 ## 🗂 Project Structure
 
 ```
