@@ -84,9 +84,3 @@ Then open your browser at `http://localhost:7860/`.
 Cybersecurity enthusiast, AI researcher for fun
 
 📬 For questions, feel free to reach out or open an issue.
-
----
-
-## 📄 License
-
-This project is open-source under the [MIT License](LICENSE).
